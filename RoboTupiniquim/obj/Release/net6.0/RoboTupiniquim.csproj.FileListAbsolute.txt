@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\bin\Release\net6.0\RoboTupiniquim.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\bin\Release\net6.0\RoboTupiniquim.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\bin\Release\net6.0\RoboTupiniquim.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\bin\Release\net6.0\RoboTupiniquim.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\bin\Release\net6.0\RoboTupiniquim.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\refint\RoboTupiniquim.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\RoboTupiniquim.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\RoboTupiniquim\obj\Release\net6.0\ref\RoboTupiniquim.dll
