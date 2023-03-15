@@ -46,6 +46,7 @@
                 yI = Convert.ToInt32(Console.ReadLine());
             }
 
+            //==========================================================
             string op = null;
             for (int i = 0; i < moVetor.Length; i++)
             {
@@ -149,8 +150,9 @@
                 }
             }
 
+	        Console.WriteLine();
+            Console.WriteLine("Localização final do robo");
             Console.WriteLine(contX+", "+contY+", "+faceI);
-
         }
     }
 }
