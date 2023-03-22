@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+
         static void releituraInicio(ref int xI, ref int yI, int xMaximo, int yMaximo)
         {
             while (xI > xMaximo || yI > yMaximo)
@@ -101,8 +102,6 @@
 
         static string virarEsquerda(string op, ref char faceI)
         {
-            string op = null;
-
             switch (faceI)
             {
                 case 'n':
@@ -164,7 +163,7 @@
 
             //==========================================================
 
-            if(xI > xMaximo || yI > yMaximo)
+            if (xI > xMaximo || yI > yMaximo)
             {
                 releituraInicio(ref xI, ref yI, xMaximo, yMaximo);
             }
@@ -176,23 +175,24 @@
                 switch (moVetor[i])
                 {
                     case 'e':
-                        virarEsquerda(op, ref faceI);
+                        op = virarEsquerda(op, ref faceI);
                         break;
 
                     case 'd':
-                        virarDireita(op, ref faceI);
+                        op = virarDireita(op, ref faceI);
                         break;
 
                     case 'm':
-                        moverRobo(ref contX, ref contY, op, faceI)
+                        moverRobo(ref contX, ref contY, op, faceI);
                         break;
 
                 }
             }
 
-	        Console.WriteLine();
+            Console.WriteLine();
             Console.WriteLine("Localização final do robo");
-            Console.WriteLine(contX+", "+contY+", "+faceI);
+            Console.WriteLine(contX + ", " + contY + ", " + faceI);
+            Console.ReadLine();
         }
     }
 }
